@@ -7,7 +7,7 @@ An example for Tetris-SDK mapping algorithm for ISCAS 2024.
 ### Title
 Tetris-SDK: Efficient Convolution Layer Mapping with Adaptive Windows for Fast In Memory Computing
 
-![Tetris-SDK demonstration](recording.mp4)
+![Tetris-SDK demonstration](demo.gif)
 
 ### Abstract
 Shifted-and-Duplicated-Kernel (SDK) mapping has emerged as a promising technique for accelerating convolutional layers in Compute-In-Memory (CIM) architectures. While state-of-the-art SDK variants have achieved decent mapping efficiency, optimizations are still desired to enhance CIM utilization and reduce computing cycles. In this work, we propose Tetris-SDK, a novel tool that exploits adaptive windows to further improve the performance of convolution layer mapping. These windows can accommodate a larger number of input channels, increase array utilization at marginal space, and adjust window shapes to minimize compute latency. 
