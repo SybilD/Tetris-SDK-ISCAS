@@ -7,6 +7,10 @@ An example for Tetris-SDK mapping algorithm for ISCAS 2024.
 ### Title
 Tetris-SDK: Efficient Convolution Layer Mapping with Adaptive Windows for Fast In Memory Computing
 
+
+https://github.com/SybilD/Tetris-SDK-ISCAS/assets/44551139/7088038c-ae13-4802-8742-6e1519874dbf
+
+
 ![Tetris-SDK demonstration](demo.gif)
 
 ### Abstract
